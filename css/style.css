@@ -1,0 +1,8 @@
+* {
+    color: white;
+};
+
+.download_link {
+    color: aquamarine;
+    text-decoration: underline;
+}
